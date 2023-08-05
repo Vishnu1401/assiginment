@@ -1,0 +1,24 @@
+<html>
+<title>Assiginment</title>
+<head>
+<style>
+h1,h2{
+border:7px red solid;
+border-radius:80px;
+width:10%;
+color:gold
+}
+</style>
+<body style="background-color:pink;color:BLACK;">
+<div style="border:8px aqua dotted;height:25%;background-color:purple">
+<h1 style="font-family:arial;color:lightblue;padding:3%;float:left">Hello</h1>	
+<h2 style="font-family:georgia;padding:2%;float:right">Bootcamp day 2</h2>
+</div>
+<ol style="border:2px solid blue;width:20%" type="a">
+<li><h3>HTML</h3></li>
+<li><h3>CSS</h3></li>
+<li><h3>Python</h3></li>
+<li><h3>SQL</h3></li>
+</body>
+</head>
+</html>
